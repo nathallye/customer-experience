@@ -2,7 +2,7 @@
 
 ## Squad
 
-- Daphyne Vitorino.
+- Daphyne Vitorino
 - Isabella Sanchis
 - José Luiz Fagundes
 - Nathallye Bacelar
